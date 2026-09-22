@@ -1,6 +1,7 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=800&color=2EE6A6&center=true&vCenter=true&width=650&lines=auth-gate+%E2%80%94+session%3Anew;Initializing+secure+session...;No+credentials+on+file+for+this+client.;ACCESS+GRANTED+%E2%9C%93;Welcome%2C+visitor.+I'm+Hemanth+N." alt="Typing SVG" />
-</h1>
+<!-- ============ HERO BANNER ============ -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EE6A6&height=220&section=header&text=auth-gate%20—%20session:new&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ACCESS%20GRANTED%20✓%20Welcome,%20visitor.%20I'm%20Hemanth%20N.&descAlignY=58&descSize=18" width="100%"/>
+</p>
 
 <h3 align="center">Backend Engineer · Java / Spring Boot · Building the plumbing that decides who gets access</h3>
 
@@ -8,18 +9,26 @@
   <a href="https://www.heman.codes/"><img src="https://img.shields.io/badge/portfolio-heman.codes-2EE6A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hemanth-n-a14812375/"><img src="https://img.shields.io/badge/LinkedIn-Hemanth%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hemanth.n@campusuvce.in"><img src="https://img.shields.io/badge/email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Hemanth777N&style=for-the-badge&color=2EE6A6&label=PROFILE+VIEWS" />
 </p>
 
-<p align="center"><i>// whoami</i></p>
+<br>
 
-```txt
-role        : Backend Engineer (Aspiring)
-stack       : Java · Spring Boot · Spring Security · PostgreSQL
-focus       : Role-based access, secure APIs, systems that don't fall over under load
-currently   : Placement Coordinator @ UVCE — also administering campus network infra
-credentials : B.Tech ISE, UVCE (CGPA 9.0) · Black Belt Dan 1, Karate · 7+ yrs discipline
-status      : open to backend engineering roles
-```
+## 01 / Quick facts
+
+- 🔐 Building **role-based, secure-by-design systems** — Java, Spring Boot, Spring Security
+- 🎓 B.Tech Information Science & Engineering, UVCE — **9.0 CGPA**
+- 🧭 Currently: **Placement Coordinator** @ UVCE, also administering campus network infra
+- 🌱 Sharpening: Docker, system design, and production-grade API patterns
+- 🥋 Off-keyboard: **Black Belt Dan 1** in Karate, 7+ years of disciplined practice
+- 📫 Reach me: **hemanth.n@campusuvce.in**
+- ⚡ Fun fact: my two flagship projects are both, at their core, about **who's allowed to do what**
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=whoami+%3E+Hemanth+N;role+%3D+Backend+Engineer+(Aspiring);status+%3D+open+to+opportunities" />
+</p>
 
 <br>
 
@@ -64,7 +73,17 @@ Thread pool + mutex/condition-variable task queue, no busy-waiting. Pause/resume
 
 <br>
 
-## 04 / Activity Log
+## 04 / Trophy case
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hemanth777N&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+</p>
+
+<sub align="center">Trophies unlock as you contribute — PRs, issues, stars received, and repos created all count. Starting your open source journey now means this row fills up fast.</sub>
+
+<br><br>
+
+## 05 / Activity log
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hemanth777N&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9" width="48%" />
@@ -81,17 +100,54 @@ Thread pool + mutex/condition-variable task queue, no busy-waiting. Pause/resume
 
 <br>
 
-## 05 / Badges — earned outside the IDE
+## 06 / Badges — earned outside the IDE
 
-- 🥋 **Black Belt, Dan 1** — Shito-Ryu Karate, 7+ years, Gold Medalist at the National Karate Tournament, Bangalore
-- 🏃 Track & field wins — 100m sprint, 1600m race, relay
-- 🎤 TCS TecBytes State-Level Quiz 2026 Finalist, representing UVCE
-- 🎖️ NCC 'B' & 'C' Certificates (Grade 'A') · Advance Leadership Camp, Coimbatore
-- 🧑‍💼 Vice President, Student Council — DRR Polytechnic
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**🥋 Black Belt, Dan 1**
+Shito-Ryu Karate, 7+ years. Gold Medalist, National Karate Tournament, Bangalore.
+
+</td>
+<td width="33%" valign="top">
+
+**🏃 Track & Field**
+Wins in 100m sprint, 1600m race, and relay competitions.
+
+</td>
+<td width="33%" valign="top">
+
+**🎤 TCS TecBytes Finalist**
+State-level quiz 2026, representing UVCE across Karnataka colleges.
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+**🎖️ NCC 'B' & 'C'**
+Grade 'A' in both. Advance Leadership Camp, Coimbatore + Thal Sainik Camp.
+
+</td>
+<td width="33%" valign="top">
+
+**🧑‍💼 VP, Student Council**
+DRR Polytechnic — final-year leadership role.
+
+</td>
+<td width="33%" valign="top">
+
+**🎓 9.0 CGPA**
+B.Tech, Information Science & Engineering, UVCE.
+
+</td>
+</tr>
+</table>
 
 <br>
 
-## 06 / Contact
+## 07 / Contact
 
 <p align="center">
   Open to backend engineering roles — scalable APIs, secure-by-design systems, production-ready code.
@@ -102,3 +158,5 @@ Thread pool + mutex/condition-variable task queue, no busy-waiting. Pause/resume
 </p>
 
 <p align="center"><sub>© Hemanth N — built with intent, not a template.</sub></p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0D1117&height=100&section=footer" width="100%"/>
