@@ -1,162 +1,53 @@
-<!-- ============ HERO BANNER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EE6A6&height=220&section=header&text=auth-gate%20—%20session:new&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ACCESS%20GRANTED%20✓%20Welcome,%20visitor.%20I'm%20Hemanth%20N.&descAlignY=58&descSize=18" width="100%"/>
-</p>
+<!-- ============ HEADER BANNER ============ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2EE6A6&height=200&section=header&text=Hemanth%20N&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Backend%20Engineer%20·%20Java%20/%20Spring%20Boot&descAlignY=62&descSize=20"/>
 
-<h3 align="center">Backend Engineer · Java / Spring Boot · Building the plumbing that decides who gets access</h3>
+### Hey there 👋, I'm Hemanth N
 
-<p align="center">
-  <a href="https://www.heman.codes/"><img src="https://img.shields.io/badge/portfolio-heman.codes-2EE6A6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/hemanth-n-a14812375/"><img src="https://img.shields.io/badge/LinkedIn-Hemanth%20N-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hemanth.n@campusuvce.in"><img src="https://img.shields.io/badge/email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=Hemanth777N&style=for-the-badge&color=2EE6A6&label=PROFILE+VIEWS" />
-</p>
+Aspiring Backend Engineer | B.Tech ISE Student, UVCE (9.0 CGPA) | Java · Spring Boot · Spring Security | Black Belt Dan 1
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=Hemanth777N&style=flat&color=2EE6A6" alt="profile views" />
 
-## 01 / Quick facts
+- 🔐 I'm currently building **role-based, secure-by-design backend systems**
+- 👯 I'm looking to collaborate on **Backend / Spring Boot open source projects**
+- 📫 How to reach me **hemanth.n@campusuvce.in**
+- ⚡ Fun fact: both my flagship projects are, at their core, about **who's allowed to do what**
 
-- 🔐 Building **role-based, secure-by-design systems** — Java, Spring Boot, Spring Security
-- 🎓 B.Tech Information Science & Engineering, UVCE — **9.0 CGPA**
-- 🧭 Currently: **Placement Coordinator** @ UVCE, also administering campus network infra
-- 🌱 Sharpening: Docker, system design, and production-grade API patterns
-- 🥋 Off-keyboard: **Black Belt Dan 1** in Karate, 7+ years of disciplined practice
-- 📫 Reach me: **hemanth.n@campusuvce.in**
-- ⚡ Fun fact: my two flagship projects are both, at their core, about **who's allowed to do what**
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=whoami+%3E+Hemanth+N;role+%3D+Backend+Engineer+(Aspiring);status+%3D+open+to+opportunities" />
-</p>
-
-<br>
-
-## 02 / Modules — things I've shipped
-
-Two systems, one theme: **deciding who gets access, and proving it.**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔐 SLM Suite — Service Lifecycle & Aftermarket Platform**
-
-Role-based platform for spare-parts inventory, dealer replenishment, and warranty claims. RBAC across Admin / Dealer / Customer with Spring Security + BCrypt, transactional stock workflows that stay consistent under concurrent order approvals.
-
-`Java` `Spring Boot` `Spring Security` `JPA` `Neon PostgreSQL`
-
-[Live Demo ↗](https://slm-suite1.onrender.com/) · [Source](https://github.com/Hemanth777N/slm-suite)
-
-</td>
-<td width="50%" valign="top">
-
-**⚡ Concurrent Download Manager**
-
-Thread pool + mutex/condition-variable task queue, no busy-waiting. Pause/resume via POSIX signals and HTTP Range requests, with byte-level integrity checks on resumption.
-
-`C` `POSIX Threads` `Producer–Consumer`
-
-[Source](https://github.com/Hemanth777N/smart-download-manager)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 03 / Toolchain
+### Connect with me:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,git,github,docker,idea,html,css&theme=dark" />
+<a href="https://www.linkedin.com/in/hemanth-n-a14812375/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://www.heman.codes/" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/919/919827.png" alt="portfolio" height="30" width="30" /></a>
+<a href="mailto:hemanth.n@campusuvce.in" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="30" /></a>
 </p>
 
-<br>
+### Languages and Tools:
 
-## 04 / Trophy case
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hemanth777N&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+<p align="left">
+<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
+<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="40" height="40"/></a>
+<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 </p>
 
-<sub align="center">Trophies unlock as you contribute — PRs, issues, stars received, and repos created all count. Starting your open source journey now means this row fills up fast.</sub>
+### 📊 GitHub Stats:
 
-<br><br>
-
-## 05 / Activity log
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hemanth777N&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth777N&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&text_color=c9d1d9" width="42%" />
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hemanth777N&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&icon_color=2EE6A6&text_color=c9d1d9" alt="Hemanth777N" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth777N&theme=dark&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6&currStreakLabel=2EE6A6" width="60%" />
+<p align="left">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hemanth777N&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=2EE6A6&text_color=c9d1d9" alt="Hemanth777N" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hemanth777N/Hemanth777N/output/github-contribution-grid-snake.svg" width="80%" />
+<p align="left">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hemanth777N&theme=dark&hide_border=true&background=0D1117&ring=2EE6A6&fire=2EE6A6" alt="Hemanth777N" />
 </p>
 
-<br>
-
-## 06 / Badges — earned outside the IDE
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-**🥋 Black Belt, Dan 1**
-Shito-Ryu Karate, 7+ years. Gold Medalist, National Karate Tournament, Bangalore.
-
-</td>
-<td width="33%" valign="top">
-
-**🏃 Track & Field**
-Wins in 100m sprint, 1600m race, and relay competitions.
-
-</td>
-<td width="33%" valign="top">
-
-**🎤 TCS TecBytes Finalist**
-State-level quiz 2026, representing UVCE across Karnataka colleges.
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-**🎖️ NCC 'B' & 'C'**
-Grade 'A' in both. Advance Leadership Camp, Coimbatore + Thal Sainik Camp.
-
-</td>
-<td width="33%" valign="top">
-
-**🧑‍💼 VP, Student Council**
-DRR Polytechnic — final-year leadership role.
-
-</td>
-<td width="33%" valign="top">
-
-**🎓 9.0 CGPA**
-B.Tech, Information Science & Engineering, UVCE.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 07 / Contact
-
-<p align="center">
-  Open to backend engineering roles — scalable APIs, secure-by-design systems, production-ready code.
-  <br><br>
-  <a href="https://www.heman.codes/">Portfolio</a> ·
-  <a href="mailto:hemanth.n@campusuvce.in">Email</a> ·
-  <a href="https://www.linkedin.com/in/hemanth-n-a14812375/">LinkedIn</a>
+<p align="left">
+<img align="center" src="https://raw.githubusercontent.com/Hemanth777N/Hemanth777N/output/github-contribution-grid-snake.svg" alt="contribution snake" width="100%"/>
 </p>
-
-<p align="center"><sub>© Hemanth N — built with intent, not a template.</sub></p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2EE6A6,100:0D1117&height=100&section=footer" width="100%"/>
